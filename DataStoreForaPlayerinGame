@@ -1,0 +1,3181 @@
+global.2208652832
+{
+  "Data": {
+    "Adventures": [],
+    "AutoHatch": "",
+    "AutoRebirth": 0,
+    "AutoRebirthActivated": false,
+    "AwardedBadges": [],
+    "BanEndTime": 3823949374,
+    "BanReason": "Duping",
+    "BankLevel": 0,
+    "BankStorage": [],
+    "ClickPotionEnd": 110280,
+    "ClickPotionUses": 0,
+    "Clicks": 3.273876993987921e+78,
+    "Codes": [],
+    "CollectedEggs": [],
+    "Common": true,
+    "CrypticHatched": 3,
+    "DailyRewards": {
+      "Collected": [],
+      "CurrentDate": 19952,
+      "StartTimePlayed": 1
+    },
+    "DivineHatched": 0,
+    "EasterEggs": 66267982472742,
+    "EasterUpgrades": {
+      "EasterMulti": 10,
+      "GemMulti": 5,
+      "HatchSpeedMulti": 3,
+      "LuckMulti": 5,
+      "MoreStorage": 0,
+      "PetEquip": 0,
+      "TapMulti": 10
+    },
+    "Eggs": 421206,
+    "EncryptedUpgrades": {
+      "EasterMulti": 0,
+      "GemMulti": 0,
+      "HatchSpeedMulti": 0,
+      "LuckMulti": 0,
+      "MoreStorage": 0,
+      "PetEquip": 0,
+      "TapMulti": 0
+    },
+    "Epic": true,
+    "EquippedPets": [
+      "Cf7GShvV-9gyIz1NM-6fal68OF",
+      "86mzT6J0-v7bD6Xb7-14yDLeKs",
+      "Bhy46KJ0-2214PEcv-1CzCx0Vt",
+      "UO7e3JBc-YlfyY0vv-2b649296",
+      "8K00iFBa-0j7Z290d-c65dI3XL",
+      "jpaIfC22-B5YOV2cm-ie14dHva",
+      "VadBEC6J-f1gJV1ZR-2W6ignrv",
+      "0wmNGGMS-0pv1903G-PYDonfA7",
+      "ptK4FPn5-qIL2X3h5-a7HtHo21",
+      "zZ99LEIu-5mo9ZFpE-09Xu409Y",
+      "36spYSxO-QMG4xVRt-LfpQ6S15",
+      "ZE13E9qI-3z2xLZHq-5N51h7dW",
+      "yds37PcV-qxLE4RVt-iBv6s2Xr",
+      "n8rfyTuF-26308UO5-8Vfmmr2i"
+    ],
+    "EquippedTitle": "VIP",
+    "EventHousesCollect": {
+      "House1": 0,
+      "House10": 0,
+      "House2": 0,
+      "House3": 0,
+      "House4": 0,
+      "House5": 0,
+      "House6": 0,
+      "House7": 0,
+      "House8": 0,
+      "House9": 0
+    },
+    "FreeClickPotionEnd": 0,
+    "FreeClicker": false,
+    "FreeGemPotionEnd": 0,
+    "FreeLuckPotionEnd": 0,
+    "FreeRebirthPotionEnd": 0,
+    "GemPotionEnd": 92252,
+    "GemPotionUses": 7,
+    "Gems": 6.878964423299199e+30,
+    "GodlyHatched": 0,
+    "Index": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      5,
+      4046,
+      4047,
+      4048,
+      81,
+      82,
+      83,
+      95,
+      94,
+      93,
+      97,
+      96,
+      98,
+      101,
+      99,
+      100,
+      128,
+      127,
+      129,
+      130,
+      132,
+      131,
+      150,
+      141,
+      142,
+      145,
+      144,
+      179,
+      3102,
+      3015,
+      3010,
+      3009,
+      3011,
+      3012
+    ],
+    "Last100KChest": 1723908128,
+    "LastDailyChest": 1723908120,
+    "LastElectroChest": 1723908126,
+    "LastGroupChest": 1723908122,
+    "LastSummerChest": 1723908125,
+    "LastUpdateLog": " 💝 Update!!! [08/16/2024]",
+    "LastVIPChest": 1723908123,
+    "LastVolcanicChest": 1723904291,
+    "Legendary": true,
+    "LuckPotionEnd": 110261,
+    "LuckPotionUses": 2,
+    "MasteryLevel": 0,
+    "MysteriousHatched": 0,
+    "Mythical": false,
+    "MythicalHatched": 726,
+    "Passes": [],
+    "PetPower": 5.537499999999999e+26,
+    "Pets": {
+      "04qE0512-qQxDk6cZ-T7gAZZfa": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "07rdaR21-e2m7c6K4-xt2v0IS9": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "09J7di34-72ZBS17p-6fSRI848": {
+        "IsLocked": false,
+        "PetExp": 3728,
+        "PetId": 4047,
+        "PetName": "Mythic Release Split",
+        "PetType": 1
+      },
+      "09lq6IAj-P895R60G-7v224aNl": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 142,
+        "PetName": "Shadow Star",
+        "PetType": 0,
+        "SerialNumber": 26
+      },
+      "0BKJr9kl-7nN475ey-3FvmmEMV": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 98,
+        "PetName": "Swamp Spirit",
+        "PetType": 2
+      },
+      "0R70sQZ0-3ly06urJ-kCQgRmf7": {
+        "IsLocked": false,
+        "PetExp": 416,
+        "PetId": 129,
+        "PetName": "Pixel Frost Dragon",
+        "PetType": 2
+      },
+      "0WwCW7HR-13L62uB0-ky2768k2": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "0c7VM0Pd-4Bucy4s2-b0rGIi8N": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 1
+      },
+      "0mPQ9g79-N9H1MSc7-9jsoE1XD": {
+        "IsLocked": false,
+        "PetExp": 10338,
+        "PetId": 101,
+        "PetName": "Swamp Fallen Angel",
+        "PetType": 0
+      },
+      "0wmNGGMS-0pv1903G-PYDonfA7": {
+        "IsLocked": false,
+        "PetExp": 126824,
+        "PetId": 3010,
+        "PetName": "Encrypted Bat",
+        "PetType": 2
+      },
+      "0y5z7E07-he4F383a-0Qksd8RF": {
+        "IsLocked": false,
+        "PetExp": 4502,
+        "PetId": 141,
+        "PetName": "Shadow Skull",
+        "PetType": 2
+      },
+      "0ySpr7Tf-977nZGbJ-ehV9HZh4": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "14h0hTIN-WVhJM153-lRnp3G6P": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 94,
+        "PetName": "Swamp Lord",
+        "PetType": 0
+      },
+      "157nw0C8-08C0O3mW-pVhImfXb": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "193cf0Vg-3uu0kopS-iziaL6oa": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "19niR85m-fOGm6ih5-l60rBB4c": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "1CQ7e7wp-A9W0hA7N-C9kxG8Pz": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 1
+      },
+      "1E7S451v-BdHeRirn-7772g79T": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "1K0xEh4v-z71N2lbj-0WIaVv8D": {
+        "IsLocked": false,
+        "PetExp": 2458,
+        "PetId": 4046,
+        "PetName": "Release Split",
+        "PetType": 0
+      },
+      "1a5lGb4q-Azfs5Ial-Oa0Q9nPj": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 129,
+        "PetName": "Pixel Frost Dragon",
+        "PetType": 2
+      },
+      "1hNiJT1A-0k9lF5jT-sY8OSq8Q": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 2,
+        "PetName": "Cat",
+        "PetType": 0
+      },
+      "1rl2IWBv-PqIMzfa3-SZUFy6AT": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "1sv2MSRF-B4JRUWd4-C3eb6c10": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 1
+      },
+      "1x203SD8-ho9QpV83-HO24fuYs": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "21Ae8O91-2O729xBx-9dXVdl72": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 1,
+        "PetName": "Dog",
+        "PetType": 0
+      },
+      "259C4gAr-569wlvGN-5C8ApWYJ": {
+        "IsLocked": false,
+        "PetExp": 10218,
+        "PetId": 128,
+        "PetName": "Pixel Dragon",
+        "PetType": 2
+      },
+      "26DWCTw0-5D17G6Yi-L2KUEblf": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 1,
+        "PetName": "Dog",
+        "PetType": 0
+      },
+      "2978YcGu-l21MJk72-wy0H5P2c": {
+        "IsLocked": false,
+        "PetExp": 2458,
+        "PetId": 4046,
+        "PetName": "Release Split",
+        "PetType": 2
+      },
+      "2BHL5Cus-sG5YQG7u-QpJB472y": {
+        "IsLocked": false,
+        "PetExp": 4502,
+        "PetId": 141,
+        "PetName": "Shadow Skull",
+        "PetType": 2
+      },
+      "2Bu8R6Oa-C3uxc3Xw-Bx67T02v": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "2DA6cSXK-r1p6oRT8-m19YV60m": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 141,
+        "PetName": "Shadow Skull",
+        "PetType": 0
+      },
+      "2DZI8Q56-6kOY4o8C-Lj88Wye8": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3009,
+        "PetName": "Encrypted Dragon",
+        "PetType": 0
+      },
+      "2Mu0M1Ze-lp735ITa-66VaP1bv": {
+        "IsLocked": false,
+        "PetExp": 1906,
+        "PetId": 130,
+        "PetName": "Pixel Master",
+        "PetType": 0,
+        "SerialNumber": 169
+      },
+      "2Tfkc5Ar-nRHb813N-2v706EJW": {
+        "IsLocked": false,
+        "PetExp": 3728,
+        "PetId": 4047,
+        "PetName": "Mythic Release Split",
+        "PetType": 2
+      },
+      "2lYQcEN8-Z6b2F2z0-6ZGnr1oL": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 95,
+        "PetName": "Swamp Vectorlord",
+        "PetType": 0
+      },
+      "2oi52QjW-78hLT0NB-KM6zGPY3": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "2rY28Tnw-WGiBIvl6-5i41k4i1": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "2uEjydRL-0hE1Dc9y-Q69Hw3Q9": {
+        "IsLocked": false,
+        "PetExp": 10322,
+        "PetId": 128,
+        "PetName": "Pixel Dragon",
+        "PetType": 2
+      },
+      "2va8A0fR-bsO8HsL8-0yrOKWjS": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 1
+      },
+      "2y76uHE4-349UE59k-idZKiHNF": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3012,
+        "PetName": "Encrypted Robot",
+        "PetType": 1,
+        "SerialNumber": 558
+      },
+      "32k4QTsz-fdWkcqcF-ujZQZ76k": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "34WmeOY0-iFB66h8V-4RmeL0Fp": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 94,
+        "PetName": "Swamp Lord",
+        "PetType": 0
+      },
+      "35431U22-9mK819q0-s35GyiGr": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "36spYSxO-QMG4xVRt-LfpQ6S15": {
+        "IsLocked": false,
+        "PetExp": 104436,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "39ck7GRw-8W9ii0ll-BckmpbJO": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "3D45BW8c-MmpdYV9V-F93sr8C3": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 81,
+        "PetName": "King Slime",
+        "PetType": 1
+      },
+      "3f44q0aK-7Nsgg563-DErFe9u1": {
+        "IsLocked": false,
+        "PetExp": 1148,
+        "PetId": 99,
+        "PetName": "Swamp Challenger",
+        "PetType": 0,
+        "SerialNumber": 172
+      },
+      "3lTOZS6O-qyk4n012-75Y62GWm": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 142,
+        "PetName": "Shadow Star",
+        "PetType": 0,
+        "SerialNumber": 28
+      },
+      "3qPHRNp0-nRRQxz5s-3aw6hS1M": {
+        "IsLocked": false,
+        "PetExp": 986,
+        "PetId": 3102,
+        "PetName": "Fire Emperor",
+        "PetType": 0
+      },
+      "3wMfy7XB-ALf0IxRb-XXmyUv8Q": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "3xD0T9u4-2MbdG7R3-7nzPWS70": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 141,
+        "PetName": "Shadow Skull",
+        "PetType": 0
+      },
+      "420WZ3Ba-dA2BofS4-7WV5b2Rh": {
+        "IsLocked": false,
+        "PetExp": 60488,
+        "PetId": 150,
+        "PetName": "Season 1 Overlord",
+        "PetType": 0
+      },
+      "44c4iJfw-RPbBdIGy-8orvekpu": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 97,
+        "PetName": "Swamp Dragon",
+        "PetType": 1
+      },
+      "45zSy66g-yPo40q8c-W687Y4WJ": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 93,
+        "PetName": "Slime Cube",
+        "PetType": 2
+      },
+      "46vLRozg-Xizr45J5-41wpkU1i": {
+        "IsLocked": false,
+        "PetExp": 6360,
+        "PetId": 3,
+        "PetName": "Pig",
+        "PetType": 0
+      },
+      "492Lo188-TwuQO14w-cx2KZv7K": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 1
+      },
+      "4D8Mv6n0-3IuZ4102-iHB0w4W4": {
+        "IsLocked": false,
+        "PetExp": 22256,
+        "PetId": 3010,
+        "PetName": "Encrypted Bat",
+        "PetType": 0
+      },
+      "4I4kw8QP-6O2zQa2F-4aj9t7xX": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 1
+      },
+      "4LhJP0ok-8iVRS3C4-q31w4eDd": {
+        "IsLocked": false,
+        "PetExp": 930,
+        "PetId": 127,
+        "PetName": "Pixel Turtle",
+        "PetType": 0
+      },
+      "4R4noqJ0-b288ZV7X-APPj3Mug": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 97,
+        "PetName": "Swamp Dragon",
+        "PetType": 0
+      },
+      "4UaNUbHk-U2yb1NC9-qJAX2tm4": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 1
+      },
+      "4XByp91G-rv01Jc1a-285v462y": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "4Zi1WOuh-5n6a8cu7-f6xl8twP": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 1
+      },
+      "4aB5xQN2-D2QSihWf-8d3WZ06T": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "4cW1077A-4v8r3S16-E472Z89K": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "4f8s9P6D-d5wc5X8X-btMmv5I2": {
+        "IsLocked": false,
+        "PetExp": 16188,
+        "PetId": 131,
+        "PetName": "Pixel King",
+        "PetType": 0,
+        "SerialNumber": 33
+      },
+      "4fOve1s2-3KP030wE-quXyt699": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "4v1000sn-m49b8g89-87lmk12v": {
+        "IsLocked": false,
+        "PetExp": 4502,
+        "PetId": 141,
+        "PetName": "Shadow Skull",
+        "PetType": 2
+      },
+      "4vzqbH5M-X9nSV3jB-1m4KqODH": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "4xdI7NrA-07uFLHm5-tx5T7dR0": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "52I9y2Pn-57I8jHwJ-QQT1S1i2": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 129,
+        "PetName": "Pixel Frost Dragon",
+        "PetType": 2
+      },
+      "56UbPI3p-gUzlwgS1-u97y4kHG": {
+        "IsLocked": false,
+        "PetExp": 3416,
+        "PetId": 3102,
+        "PetName": "Fire Emperor",
+        "PetType": 0
+      },
+      "59UKlS8U-7hIvRQdN-65g8tvYR": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "5GpmsRB1-ZqmO2zD5-EVEpZaY4": {
+        "IsLocked": false,
+        "PetExp": 5056,
+        "PetId": 3015,
+        "PetName": "0",
+        "PetType": 0
+      },
+      "5N3YGn9K-92rT0Mrp-5Lg8q0DH": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "5Q9M2D5L-F5rS7Sp6-Gq1BwbcV": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 98,
+        "PetName": "Swamp Spirit",
+        "PetType": 2
+      },
+      "5RZh5J0n-uHbTd81p-39617dNV": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "5ZA64h62-X4c1n3G2-8S3L91mK": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "5rtTcDh3-MaGdOm7H-PM4JGdgl": {
+        "IsLocked": false,
+        "PetExp": 27558,
+        "PetId": 3015,
+        "PetName": "0",
+        "PetType": 0
+      },
+      "658Kv8YB-50u63RZ2-2hnJA0r2": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "66Vfo2W7-91Pw07mH-ldat0B3S": {
+        "IsLocked": false,
+        "PetExp": 17514,
+        "PetId": 132,
+        "PetName": "Pixel Giant",
+        "PetType": 0,
+        "SerialNumber": 11
+      },
+      "67H4h6bh-tIY10i40-47fXANil": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "67giZKiZ-49PCPW3A-M6CHLCAd": {
+        "IsLocked": false,
+        "PetExp": 3966,
+        "PetId": 96,
+        "PetName": "Slime Overlord",
+        "PetType": 1
+      },
+      "6CmzrntD-b840YAdD-K80bsg8j": {
+        "IsLocked": false,
+        "PetExp": 3416,
+        "PetId": 3102,
+        "PetName": "Fire Emperor",
+        "PetType": 0
+      },
+      "6F97FKyl-2anlyHrX-xJ9SDqLk": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 94,
+        "PetName": "Swamp Lord",
+        "PetType": 0
+      },
+      "6JsRJtKg-m2YQu9oQ-wGeZ3zUJ": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3009,
+        "PetName": "Encrypted Dragon",
+        "PetType": 1
+      },
+      "6O8reWrs-dQgQhF53-87vP6NR4": {
+        "IsLocked": false,
+        "PetExp": 962,
+        "PetId": 127,
+        "PetName": "Pixel Turtle",
+        "PetType": 1
+      },
+      "6QH5J7bg-1IPtVxTK-hM1Ee8zW": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 98,
+        "PetName": "Swamp Spirit",
+        "PetType": 2
+      },
+      "6T41rsc4-378xxHln-D04Bpk9K": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3012,
+        "PetName": "Encrypted Robot",
+        "PetType": 1
+      },
+      "6c2Zs4fM-wGQA09bi-QvACG607": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "6gM743uF-kq78iTF5-atSLdt85": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 93,
+        "PetName": "Slime Cube",
+        "PetType": 1
+      },
+      "6uicWPu1-047U2UJr-gQsl1d03": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 98,
+        "PetName": "Swamp Spirit",
+        "PetType": 1
+      },
+      "6ya6lp5T-mE1GCU4n-9shI84ei": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "771z1G99-M7ff04Ki-0XOvWcK1": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 95,
+        "PetName": "Swamp Vectorlord",
+        "PetType": 0
+      },
+      "79kWIFx4-532LXjmR-xODx6d7W": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 128,
+        "PetName": "Pixel Dragon",
+        "PetType": 1
+      },
+      "79mF6eq5-N4gVSH02-1V37O6ll": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "7VNEf9zn-KXC6O7WY-L00VTo0j": {
+        "IsLocked": false,
+        "PetExp": 7030,
+        "PetId": 99,
+        "PetName": "Swamp Challenger",
+        "PetType": 0,
+        "SerialNumber": 168
+      },
+      "7VwdODPn-7Uir5eYk-53Y4FRu3": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "7Xp1Kp10-TQP4vlG4-kZqbgW80": {
+        "IsLocked": false,
+        "PetExp": 1450,
+        "PetId": 82,
+        "PetName": "Mythic King Slime",
+        "PetType": 0
+      },
+      "7Yy6rv4q-S3e36VGD-nH64j6MJ": {
+        "IsLocked": false,
+        "PetExp": 1298,
+        "PetId": 82,
+        "PetName": "Mythic King Slime",
+        "PetType": 0
+      },
+      "7dtRJSH6-1gYlJ4AU-gz71i980": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "7gxPr3dh-nrv5HUPi-fgMC2n6A": {
+        "IsLocked": false,
+        "PetExp": 6360,
+        "PetId": 3,
+        "PetName": "Pig",
+        "PetType": 0
+      },
+      "7t6bf72I-j107N2lk-tv9iji00": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 141,
+        "PetName": "Shadow Skull",
+        "PetType": 2
+      },
+      "7xPViKIH-Xt8ysIbQ-6F3qtXcm": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 1
+      },
+      "805qFZkT-2J5lgu4w-on0I487u": {
+        "IsLocked": false,
+        "PetExp": 8430,
+        "PetId": 99,
+        "PetName": "Swamp Challenger",
+        "PetType": 1,
+        "SerialNumber": 23
+      },
+      "82T5CC74-OogZu514-E0l9VRdu": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "84rOgsN7-p6zID0Qp-4o3CytbP": {
+        "IsLocked": false,
+        "PetExp": 3728,
+        "PetId": 4047,
+        "PetName": "Mythic Release Split",
+        "PetType": 1
+      },
+      "86mzT6J0-v7bD6Xb7-14yDLeKs": {
+        "IsLocked": false,
+        "PetExp": 104608,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 2
+      },
+      "874378VF-yKvF3kj8-2dxWn5vX": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 127,
+        "PetName": "Pixel Turtle",
+        "PetType": 0
+      },
+      "87vN4Sn2-840EdBfU-84lXK2yO": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "8DTwv4Qt-fJ0uiCtb-52A247D1": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "8K00iFBa-0j7Z290d-c65dI3XL": {
+        "IsLocked": false,
+        "PetExp": 128386,
+        "PetId": 3010,
+        "PetName": "Encrypted Bat",
+        "PetType": 2
+      },
+      "8TYJ1XdA-L3e89MHV-3c3g5zj5": {
+        "IsLocked": false,
+        "PetExp": 1524,
+        "PetId": 179,
+        "PetName": "Electro Immortal",
+        "PetType": 0
+      },
+      "8juYSb27-mskqk2MA-1ZFoev41": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "8ks083Lv-VJG6l1JP-1aj5iW2r": {
+        "IsLocked": false,
+        "PetExp": 14512,
+        "PetId": 128,
+        "PetName": "Pixel Dragon",
+        "PetType": 2
+      },
+      "8rWRIkR9-7Vz0u85w-5BZsbwA5": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 98,
+        "PetName": "Swamp Spirit",
+        "PetType": 1
+      },
+      "8y41w111-CyYN1rfa-zlTg3S85": {
+        "IsLocked": false,
+        "PetExp": 27740,
+        "PetId": 3015,
+        "PetName": "0",
+        "PetType": 2
+      },
+      "938q7Y80-LN9t8224-YOSyNIEa": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "9824j7co-hCHtSkfY-18062926": {
+        "IsLocked": false,
+        "PetExp": 60488,
+        "PetId": 150,
+        "PetName": "Season 1 Overlord",
+        "PetType": 0
+      },
+      "998S3JWo-ImedxcAY-602ej8YN": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "9D7H509P-dFfUs5gz-wNg738S6": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "9JyV294E-Ze2bc6B2-3mc1Uu30": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "9dm60R2b-tVn27yzJ-vsaroJMs": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "9kIlkIL9-l5SD8Wkh-0A9MxUni": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 93,
+        "PetName": "Slime Cube",
+        "PetType": 2
+      },
+      "A3u5IxnG-n7lkaEWU-4I42lhKq": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 94,
+        "PetName": "Swamp Lord",
+        "PetType": 2
+      },
+      "A51nn1Kr-1fr0311R-A6S97979": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "ACSzj4C4-34gB6Q9X-GNb2XSY8": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 1,
+        "PetName": "Dog",
+        "PetType": 0
+      },
+      "Ay69ZVz0-jj88e777-9T4V78i7": {
+        "IsLocked": false,
+        "PetExp": 30174,
+        "PetId": 83,
+        "PetName": "Sinister Skull",
+        "PetType": 0,
+        "SerialNumber": 549
+      },
+      "Bhy46KJ0-2214PEcv-1CzCx0Vt": {
+        "IsLocked": false,
+        "PetExp": 104588,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 1
+      },
+      "C4E822D1-1C6BJo7n-3RWVTF8I": {
+        "IsLocked": false,
+        "PetExp": 21354,
+        "PetId": 129,
+        "PetName": "Pixel Frost Dragon",
+        "PetType": 2
+      },
+      "CFR43Y70-sD0LAaQ9-IB0w8kY2": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "CKMieiw5-OXD3gS5Y-qH4fcF86": {
+        "IsLocked": false,
+        "PetExp": 51388,
+        "PetId": 141,
+        "PetName": "Shadow Skull",
+        "PetType": 1
+      },
+      "COjx3k0C-R95y4C01-R5VQVc9N": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 1
+      },
+      "CVqVJJ5M-A48WJuE1-7tQHLR1O": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3009,
+        "PetName": "Encrypted Dragon",
+        "PetType": 0
+      },
+      "CcxtjZdG-huO6jrDt-zq7r061o": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 95,
+        "PetName": "Swamp Vectorlord",
+        "PetType": 1
+      },
+      "Cf1g1mmt-SxUx6A4A-biJ7u6R2": {
+        "IsLocked": false,
+        "PetExp": 10392,
+        "PetId": 128,
+        "PetName": "Pixel Dragon",
+        "PetType": 2
+      },
+      "Cf7GShvV-9gyIz1NM-6fal68OF": {
+        "IsLocked": false,
+        "PetExp": 104620,
+        "PetId": 3012,
+        "PetName": "Encrypted Robot",
+        "PetType": 1
+      },
+      "CmZ82F0d-3bJITDsS-rWWVWWsV": {
+        "IsLocked": false,
+        "PetExp": 1906,
+        "PetId": 130,
+        "PetName": "Pixel Master",
+        "PetType": 0,
+        "SerialNumber": 171
+      },
+      "CrejzR39-p5sQmjwZ-zvF0Frgp": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 128,
+        "PetName": "Pixel Dragon",
+        "PetType": 2
+      },
+      "D21k9c9p-83qP1B7j-0x04PRq2": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 97,
+        "PetName": "Swamp Dragon",
+        "PetType": 1
+      },
+      "D50r3Xio-kBvZBjww-0IXCvuwC": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "DE5El9Hf-8T0J344K-7TxAR53o": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "DE5xE4pI-Jl66zTKT-oexwg621": {
+        "IsLocked": false,
+        "PetExp": 10162,
+        "PetId": 82,
+        "PetName": "Mythic King Slime",
+        "PetType": 1
+      },
+      "DQ9S97px-paq7GZqP-J6x59VAZ": {
+        "IsLocked": false,
+        "PetExp": 2344,
+        "PetId": 179,
+        "PetName": "Electro Immortal",
+        "PetType": 0
+      },
+      "DtWQ5md8-v5Tr2IYw-2qwI0UIL": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3009,
+        "PetName": "Encrypted Dragon",
+        "PetType": 0
+      },
+      "DyF2n5zB-ssmHtK3o-79wp8d3Z": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 141,
+        "PetName": "Shadow Skull",
+        "PetType": 2
+      },
+      "E35nOQP3-Me2pFtDl-1Wz8f351": {
+        "IsLocked": false,
+        "PetExp": 5194,
+        "PetId": 3015,
+        "PetName": "0",
+        "PetType": 0
+      },
+      "EPOtEUJm-t8k4tx41-vmI6Cmck": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "EQsT870s-20I5kJkp-B0RTYX10": {
+        "IsLocked": false,
+        "PetExp": 3888,
+        "PetId": 96,
+        "PetName": "Slime Overlord",
+        "PetType": 0
+      },
+      "EdO52XM8-I2BS618i-2XW6NP56": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 1,
+        "PetName": "Dog",
+        "PetType": 0
+      },
+      "EgB0wFda-SX6364Xx-BS1711I9": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "F72al9Gf-1EI47d0P-8LL5Xanq": {
+        "IsLocked": false,
+        "PetExp": 3636,
+        "PetId": 100,
+        "PetName": "Swamp  Wolflord",
+        "PetType": 0,
+        "SerialNumber": 37
+      },
+      "F8je8oH1-mK84rn9J-0aHRh8ww": {
+        "IsLocked": false,
+        "PetExp": 14822,
+        "PetId": 130,
+        "PetName": "Pixel Master",
+        "PetType": 0,
+        "SerialNumber": 164
+      },
+      "FCVCQ0dF-8D4GX91F-8c8rl0uv": {
+        "IsLocked": false,
+        "PetExp": 1280,
+        "PetId": 81,
+        "PetName": "King Slime",
+        "PetType": 2
+      },
+      "G1UvZPLf-GpQD2Y23-4fS2C0s4": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3009,
+        "PetName": "Encrypted Dragon",
+        "PetType": 1
+      },
+      "G4wr16YJ-c1KpH7aR-KyzcGjQ4": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 95,
+        "PetName": "Swamp Vectorlord",
+        "PetType": 0
+      },
+      "G76p8K15-3xH7s1eI-587JLyyi": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "GWM34r9P-zaQFA88P-97381I9D": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 141,
+        "PetName": "Shadow Skull",
+        "PetType": 2
+      },
+      "Gb08wXcY-U1Deqf6D-HQLeyw53": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 4046,
+        "PetName": "Release Split",
+        "PetType": 0
+      },
+      "GuSE6NmL-9IENNKPA-d0cgnHpI": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 128,
+        "PetName": "Pixel Dragon",
+        "PetType": 1
+      },
+      "H4LbfsZ9-QQMoc6QL-B423F7Iu": {
+        "IsLocked": false,
+        "PetExp": 1200,
+        "PetId": 2,
+        "PetName": "Cat",
+        "PetType": 0
+      },
+      "HRBA3JY7-9qA24skr-76x9X8IW": {
+        "IsLocked": false,
+        "PetExp": 6026,
+        "PetId": 144,
+        "PetName": "Shadow Planet",
+        "PetType": 0,
+        "SerialNumber": 4
+      },
+      "HRb98HmC-26xF2x27-b5O3D64V": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "He6Dfi9o-pK0WrdZf-ni6g2Fp3": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 128,
+        "PetName": "Pixel Dragon",
+        "PetType": 2
+      },
+      "I1WoleA2-rM190H7P-kilIXq81": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 142,
+        "PetName": "Shadow Star",
+        "PetType": 0,
+        "SerialNumber": 27
+      },
+      "I80NJU0n-45l24h2B-IlcPDhB2": {
+        "IsLocked": false,
+        "PetExp": 3844,
+        "PetId": 96,
+        "PetName": "Slime Overlord",
+        "PetType": 0
+      },
+      "IG6uQ472-t54Abtyq-oxI6q0Ch": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3012,
+        "PetName": "Encrypted Robot",
+        "PetType": 1
+      },
+      "IXcZn12H-s87Nl765-95Jw6yO4": {
+        "IsLocked": true,
+        "PetExp": 3416,
+        "PetId": 3102,
+        "PetName": "Fire Emperor",
+        "PetType": 1
+      },
+      "IYKEEUYb-j22o0D2v-MT7w5y1J": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 4046,
+        "PetName": "Release Split",
+        "PetType": 0
+      },
+      "IgCY0e2D-EhB85tS3-Sm02i3x0": {
+        "IsLocked": false,
+        "PetExp": 6360,
+        "PetId": 2,
+        "PetName": "Cat",
+        "PetType": 0
+      },
+      "Jq65PA0k-NFwYA87B-KyYpeiB2": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "K1iaS5z2-C975767L-1T5h0Kp6": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 93,
+        "PetName": "Slime Cube",
+        "PetType": 2
+      },
+      "KId0irWT-GiL2535W-2aBcnU9J": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 97,
+        "PetName": "Swamp Dragon",
+        "PetType": 0
+      },
+      "KJ5w9Y4j-B8sQ62AE-4OwwQnF8": {
+        "IsLocked": false,
+        "PetExp": 27530,
+        "PetId": 3015,
+        "PetName": "0",
+        "PetType": 1
+      },
+      "KcjHUGEm-c4bxsdpr-X6S8jn7F": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 2
+      },
+      "L2sYg07N-4tFN73CX-pU904Uey": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 1
+      },
+      "LRowgiZO-pNf7MD4M-E4ldSLW9": {
+        "IsLocked": false,
+        "PetExp": 24344,
+        "PetId": 101,
+        "PetName": "Swamp Fallen Angel",
+        "PetType": 0
+      },
+      "LTbJJOF7-B5xLm5MZ-K3JzM22t": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 98,
+        "PetName": "Swamp Spirit",
+        "PetType": 1
+      },
+      "LuQ1uNFX-n39K3204-80MLgp9j": {
+        "IsLocked": false,
+        "PetExp": 10332,
+        "PetId": 128,
+        "PetName": "Pixel Dragon",
+        "PetType": 2
+      },
+      "LyM4us7z-0y10rznr-xTTf46vF": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "LyO3H9x4-3327s69B-fb1PL8o9": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "N808n424-Yhnmiu5Z-Ph886vqO": {
+        "IsLocked": false,
+        "PetExp": 2276,
+        "PetId": 82,
+        "PetName": "Mythic King Slime",
+        "PetType": 1
+      },
+      "NcV73lbA-u2rO6PC9-GO5R5KLP": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "NuA9DwSU-a3Ke1NMM-7pXi0Yj1": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 1,
+        "PetName": "Dog",
+        "PetType": 0
+      },
+      "O40GJIo0-h7t929CH-OItjU7dW": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 128,
+        "PetName": "Pixel Dragon",
+        "PetType": 2
+      },
+      "O4Bq1cRn-e5n4w4vA-CK5HRm0i": {
+        "IsLocked": true,
+        "PetExp": 3416,
+        "PetId": 3102,
+        "PetName": "Fire Emperor",
+        "PetType": 1
+      },
+      "OKTW3MCK-VT336a7g-K2E5thT7": {
+        "IsLocked": false,
+        "PetExp": 11792,
+        "PetId": 128,
+        "PetName": "Pixel Dragon",
+        "PetType": 2
+      },
+      "OTx0R4Y0-Twv32fG8-58BxO37Z": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "PL8ltW55-HFVf5gX6-ZMRI6hk6": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3009,
+        "PetName": "Encrypted Dragon",
+        "PetType": 1
+      },
+      "Pc1b2mtI-B0ijv385-78n86G6k": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "PnCk52Oe-59SSQ7z2-HeF4aHRO": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 93,
+        "PetName": "Slime Cube",
+        "PetType": 2
+      },
+      "Q4235859-9dfovlbq-bnD2joZp": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 97,
+        "PetName": "Swamp Dragon",
+        "PetType": 2
+      },
+      "R1GA8GZN-yY2K3Nt4-G7F4qoqy": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 1
+      },
+      "R9glvdX2-24m7u0N2-44C84YKI": {
+        "IsLocked": false,
+        "PetExp": 10292,
+        "PetId": 128,
+        "PetName": "Pixel Dragon",
+        "PetType": 2
+      },
+      "RDtdz7b7-7cPhWdty-89teS99E": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 141,
+        "PetName": "Shadow Skull",
+        "PetType": 1
+      },
+      "RHOUoj87-tbGzmWD6-16895IvM": {
+        "IsLocked": false,
+        "PetExp": 2458,
+        "PetId": 4046,
+        "PetName": "Release Split",
+        "PetType": 2
+      },
+      "RrZf91do-LXJsLw9U-52wVW2h5": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3012,
+        "PetName": "Encrypted Robot",
+        "PetType": 1
+      },
+      "S8eHKNJy-pZQ49KhW-ej3wXs3D": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 97,
+        "PetName": "Swamp Dragon",
+        "PetType": 2
+      },
+      "STEQAOiu-LzU3ayCg-Dz14Ol4t": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 81,
+        "PetName": "King Slime",
+        "PetType": 1
+      },
+      "SgGwP96t-K4614O8g-kYy5h2v8": {
+        "IsLocked": false,
+        "PetExp": 992,
+        "PetId": 3102,
+        "PetName": "Fire Emperor",
+        "PetType": 0
+      },
+      "Sj0XVx1E-PNLyxgQ2-3m14222k": {
+        "IsLocked": false,
+        "PetExp": 3416,
+        "PetId": 3102,
+        "PetName": "Fire Emperor",
+        "PetType": 0
+      },
+      "SnEi616g-Ke5F38zo-iAcAd5KR": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "Sqk4IKl6-BCRcOVcK-sr11hBQ4": {
+        "IsLocked": false,
+        "PetExp": 19576,
+        "PetId": 99,
+        "PetName": "Swamp Challenger",
+        "PetType": 0,
+        "SerialNumber": 154
+      },
+      "Sy1M6Vaf-voO8CIAu-0N1xKYjk": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "T7N2HK10-Lu4N6QiX-D15TIdI9": {
+        "IsLocked": false,
+        "PetExp": 2344,
+        "PetId": 179,
+        "PetName": "Electro Immortal",
+        "PetType": 0
+      },
+      "TBOjJsec-Dg6501Lv-1L41OmiL": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "TK220OkE-E86Xw16T-1zxPt07s": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 94,
+        "PetName": "Swamp Lord",
+        "PetType": 0
+      },
+      "TM8d358e-2p2x2UDQ-xLhx6YZX": {
+        "IsLocked": false,
+        "PetExp": 6108,
+        "PetId": 6,
+        "PetName": "Sheep",
+        "PetType": 0
+      },
+      "TpIC421D-16U67s8N-vT79S8F6": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3009,
+        "PetName": "Encrypted Dragon",
+        "PetType": 1
+      },
+      "Tz1mroi3-dyOV4ZZR-gWLGCw06": {
+        "IsLocked": false,
+        "PetExp": 6360,
+        "PetId": 2,
+        "PetName": "Cat",
+        "PetType": 0
+      },
+      "TzFQPc39-XHhwjBoC-uEm24X2B": {
+        "IsLocked": false,
+        "PetExp": 60488,
+        "PetId": 150,
+        "PetName": "Season 1 Overlord",
+        "PetType": 0
+      },
+      "U5D2J61b-8S8Qfzju-Z0KN2foo": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "U7Sw0y3T-xOD103nJ-9C68oisi": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "UO7e3JBc-YlfyY0vv-2b649296": {
+        "IsLocked": false,
+        "PetExp": 131424,
+        "PetId": 3010,
+        "PetName": "Encrypted Bat",
+        "PetType": 2
+      },
+      "UeRlXF3X-F3Ss7p3b-E2aas3aV": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "V9e825tE-FY10m2JW-yo5D0M46": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 94,
+        "PetName": "Swamp Lord",
+        "PetType": 1
+      },
+      "VadBEC6J-f1gJV1ZR-2W6ignrv": {
+        "IsLocked": false,
+        "PetExp": 126852,
+        "PetId": 3010,
+        "PetName": "Encrypted Bat",
+        "PetType": 2
+      },
+      "Vk1YzN5j-tD2q22Un-ir2Irx45": {
+        "IsLocked": false,
+        "PetExp": 9730,
+        "PetId": 100,
+        "PetName": "Swamp  Wolflord",
+        "PetType": 0,
+        "SerialNumber": 35
+      },
+      "W376b6jy-Z53D5lVo-zOyGBNtc": {
+        "IsLocked": false,
+        "PetExp": 11558,
+        "PetId": 128,
+        "PetName": "Pixel Dragon",
+        "PetType": 2
+      },
+      "W4Jum46f-eswMj87Y-JSnmg9RL": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 142,
+        "PetName": "Shadow Star",
+        "PetType": 0,
+        "SerialNumber": 36
+      },
+      "WF0Bx4TS-Kg2258q7-814877QM": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "WSaPla81-f8qP5vNu-c97VnV8R": {
+        "IsLocked": false,
+        "PetExp": 5286,
+        "PetId": 3015,
+        "PetName": "0",
+        "PetType": 0
+      },
+      "WSpU04yK-oCVqMIG4-AlYM9z1b": {
+        "IsLocked": false,
+        "PetExp": 22262,
+        "PetId": 3010,
+        "PetName": "Encrypted Bat",
+        "PetType": 0
+      },
+      "WW9U7ACq-Cyd0H6k7-i2WXfT40": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 97,
+        "PetName": "Swamp Dragon",
+        "PetType": 2
+      },
+      "Wa451nC9-7j6ulu4h-F82VRHYS": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "WkhurVLE-XMB9o0b7-69CbSS1F": {
+        "IsLocked": false,
+        "PetExp": 6026,
+        "PetId": 145,
+        "PetName": "Shadow Emperor",
+        "PetType": 0,
+        "SerialNumber": 1
+      },
+      "X3d6OJNl-6d8WZxtO-9cT30MY9": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "X8H03IcE-P8N5IqKr-1suUHJQs": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "XRJe3dB0-F7QQH6gi-nZN7ixPi": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 4046,
+        "PetName": "Release Split",
+        "PetType": 0
+      },
+      "XS2vC2cU-qm4Z3Ged-Mx1OOx9O": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "XWh20Nt3-1B8OEtgx-0sp8wO9g": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 4046,
+        "PetName": "Release Split",
+        "PetType": 0
+      },
+      "XZQVoGW4-S330Ah6W-17sH5GrI": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 97,
+        "PetName": "Swamp Dragon",
+        "PetType": 2
+      },
+      "XsY19014-J8myl2ag-uq594cFl": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 1
+      },
+      "XtIa19tj-C9sf1wb1-Oe4leD23": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 142,
+        "PetName": "Shadow Star",
+        "PetType": 0,
+        "SerialNumber": 33
+      },
+      "XzJYvkJU-EF7K9LRN-z2jcKgHC": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 94,
+        "PetName": "Swamp Lord",
+        "PetType": 0
+      },
+      "YGdl1ivU-0om7V81A-K3S7KJfx": {
+        "IsLocked": false,
+        "PetExp": 2254,
+        "PetId": 82,
+        "PetName": "Mythic King Slime",
+        "PetType": 0
+      },
+      "YZzi6G3j-28z66mJb-29t579Yg": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "Z165129K-KKBzaqE5-3UAVOM6S": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "Z1Z8485j-t2J0m6sN-11N347fw": {
+        "IsLocked": false,
+        "PetExp": 2458,
+        "PetId": 4046,
+        "PetName": "Release Split",
+        "PetType": 2
+      },
+      "Z346sUsd-11mNEP09-5icbmW2r": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3012,
+        "PetName": "Encrypted Robot",
+        "PetType": 1,
+        "SerialNumber": 559
+      },
+      "ZE13E9qI-3z2xLZHq-5N51h7dW": {
+        "IsLocked": false,
+        "PetExp": 104422,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "ZdpQ335Q-5wRbYnz5-o9BxsH3G": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3012,
+        "PetName": "Encrypted Robot",
+        "PetType": 1
+      },
+      "a76Ux709-Dltr3j3A-dD3KFE8A": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "aB38LiJP-Wuny39fQ-502M2JIq": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "aUL5CUu7-S1n83Tb0-3h23213x": {
+        "IsLocked": false,
+        "PetExp": 4502,
+        "PetId": 141,
+        "PetName": "Shadow Skull",
+        "PetType": 2
+      },
+      "aW6Q9sD5-Rt20YrKF-dL6jN12G": {
+        "IsLocked": false,
+        "PetExp": 3858,
+        "PetId": 96,
+        "PetName": "Slime Overlord",
+        "PetType": 0
+      },
+      "aa8GE4k9-UE3Tt64H-6Rrf2047": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 4046,
+        "PetName": "Release Split",
+        "PetType": 0
+      },
+      "b0882qAk-iDgQ5Arr-5NJ46JUH": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 4046,
+        "PetName": "Release Split",
+        "PetType": 0
+      },
+      "b6jA93Rt-9hDaEteJ-s739AMvJ": {
+        "IsLocked": false,
+        "PetExp": 28912,
+        "PetId": 83,
+        "PetName": "Sinister Skull",
+        "PetType": 0,
+        "SerialNumber": 550
+      },
+      "b89dHrMN-MM2AsE1m-589aVr5c": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "b99rFyN4-zMS77WNo-Mx871Spu": {
+        "IsLocked": false,
+        "PetExp": 2344,
+        "PetId": 179,
+        "PetName": "Electro Immortal",
+        "PetType": 0
+      },
+      "bB05nAsk-466kZ827-VV8U92L6": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 97,
+        "PetName": "Swamp Dragon",
+        "PetType": 1
+      },
+      "bIyvv9FO-xkV9n38b-07f0cu7H": {
+        "IsLocked": false,
+        "PetExp": 9724,
+        "PetId": 101,
+        "PetName": "Swamp Fallen Angel",
+        "PetType": 0
+      },
+      "bLZJQT93-r9W78i56-BjMMHde2": {
+        "IsLocked": false,
+        "PetExp": 2344,
+        "PetId": 179,
+        "PetName": "Electro Immortal",
+        "PetType": 0
+      },
+      "bbWS3Ra4-D8jxwSI0-nJ5zcsv3": {
+        "IsLocked": false,
+        "PetExp": 5160,
+        "PetId": 5,
+        "PetName": "King Doggy",
+        "PetType": 0,
+        "SerialNumber": 24
+      },
+      "bqQdaoxs-3R41D86h-Xx7TAmT0": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "btZko5en-Jr5jpMz2-W5UWjx2K": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 95,
+        "PetName": "Swamp Vectorlord",
+        "PetType": 0
+      },
+      "c5IANU3i-LCT8CXmx-2Z2h811q": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 141,
+        "PetName": "Shadow Skull",
+        "PetType": 1
+      },
+      "c9pDEm74-1wmlppn4-s93aCuJ0": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 128,
+        "PetName": "Pixel Dragon",
+        "PetType": 2
+      },
+      "cclvb1WH-98G9SufD-233M6w64": {
+        "IsLocked": false,
+        "PetExp": 1270,
+        "PetId": 81,
+        "PetName": "King Slime",
+        "PetType": 1
+      },
+      "cv1iFDYt-8z1W2DPE-6Pi0OxX5": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 1
+      },
+      "d24vStGQ-QA4zyXKm-2GgpVNGT": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "diM83H66-f5fvwpEo-I17rTVVl": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 128,
+        "PetName": "Pixel Dragon",
+        "PetType": 2
+      },
+      "drM434I2-JMHGYPGH-Xx4Ck6h5": {
+        "IsLocked": false,
+        "PetExp": 18176,
+        "PetId": 99,
+        "PetName": "Swamp Challenger",
+        "PetType": 0,
+        "SerialNumber": 156
+      },
+      "e016M6X4-sR5227p1-9DJS26HH": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 128,
+        "PetName": "Pixel Dragon",
+        "PetType": 2
+      },
+      "e0hY7I9c-NLkKY91p-P649gn8d": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 1
+      },
+      "e37BCmuj-iE7CF1XU-2BUSFw8i": {
+        "IsLocked": false,
+        "PetExp": 6360,
+        "PetId": 3,
+        "PetName": "Pig",
+        "PetType": 0
+      },
+      "e75ZubQv-XdfcR8Yy-WHmIHHFh": {
+        "IsLocked": false,
+        "PetExp": 6360,
+        "PetId": 4,
+        "PetName": "Bunny",
+        "PetType": 0
+      },
+      "eCT1D5da-UO5e0a2j-aU8va45B": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 94,
+        "PetName": "Swamp Lord",
+        "PetType": 0
+      },
+      "eDF58a27-JUzUT4tH-0ELdqKv3": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "eKBwuI7c-55B2LPh9-Fs10eG24": {
+        "IsLocked": false,
+        "PetExp": 3852,
+        "PetId": 96,
+        "PetName": "Slime Overlord",
+        "PetType": 0
+      },
+      "epig40Bg-7I4QdSGH-30pu15Ub": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 98,
+        "PetName": "Swamp Spirit",
+        "PetType": 0
+      },
+      "eqlty47k-0JjJX929-6Y57yk55": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 93,
+        "PetName": "Slime Cube",
+        "PetType": 1
+      },
+      "f1aUc5R7-32exT0E9-8LOQ0qM9": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3012,
+        "PetName": "Encrypted Robot",
+        "PetType": 1,
+        "SerialNumber": 549
+      },
+      "f9b6c0Jz-75BDt7fX-pwd3eJfW": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 141,
+        "PetName": "Shadow Skull",
+        "PetType": 0
+      },
+      "fLi4zN68-24kWZjpE-V6u9bK34": {
+        "IsLocked": false,
+        "PetExp": 55110,
+        "PetId": 142,
+        "PetName": "Shadow Star",
+        "PetType": 0,
+        "SerialNumber": 22
+      },
+      "fS005x45-IsPM5yYk-43XQ3os0": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "fw95wHdS-zqu7zpQx-7G8TwUpz": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "g4n4Baxt-5o9rJfeo-xrd9cjv1": {
+        "IsLocked": false,
+        "PetExp": 2458,
+        "PetId": 4046,
+        "PetName": "Release Split",
+        "PetType": 2
+      },
+      "g6He1ofU-rQnsVprG-0s2n316n": {
+        "IsLocked": false,
+        "PetExp": 1892,
+        "PetId": 3102,
+        "PetName": "Fire Emperor",
+        "PetType": 0
+      },
+      "g9z73waN-9U7Nq1Zm-HCkR9cyn": {
+        "IsLocked": false,
+        "PetExp": 6360,
+        "PetId": 3,
+        "PetName": "Pig",
+        "PetType": 0
+      },
+      "gHlQKKUq-61OtZJML-2uGVP7Vi": {
+        "IsLocked": false,
+        "PetExp": 54080,
+        "PetId": 142,
+        "PetName": "Shadow Star",
+        "PetType": 0,
+        "SerialNumber": 24
+      },
+      "gLr4DAUU-kl9h9424-G6Y92T13": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "gaq5E93Z-EjoffRBY-6n3dgcSR": {
+        "IsLocked": false,
+        "PetExp": 60488,
+        "PetId": 150,
+        "PetName": "Season 1 Overlord",
+        "PetType": 0
+      },
+      "giqg183N-589qGKSF-s7P2dr9z": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "gp330bPs-62668aZR-973ARj8z": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "gpG9q1d6-s8O8ZkeO-ITYGL386": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 99,
+        "PetName": "Swamp Challenger",
+        "PetType": 0,
+        "SerialNumber": 169
+      },
+      "h69CNT44-eZL1IYI3-F3WU6j4x": {
+        "IsLocked": false,
+        "PetExp": 3882,
+        "PetId": 96,
+        "PetName": "Slime Overlord",
+        "PetType": 0
+      },
+      "hd37o9hh-0SOKYPSc-9186pYYS": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "i395wbxC-XYDz1g8v-l3hZKZyv": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "i7We2nJC-oSPoxkUY-h6hCj1M7": {
+        "IsLocked": false,
+        "PetExp": 2344,
+        "PetId": 179,
+        "PetName": "Electro Immortal",
+        "PetType": 0
+      },
+      "iE0e632y-6G750ilr-g5Q654Hx": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 96,
+        "PetName": "Slime Overlord",
+        "PetType": 0
+      },
+      "iZ9M9vtL-NGBuhz78-969ubJ6p": {
+        "IsLocked": false,
+        "PetExp": 14822,
+        "PetId": 130,
+        "PetName": "Pixel Master",
+        "PetType": 0,
+        "SerialNumber": 165
+      },
+      "itt3dEA6-48gD08gp-x0yhS1Yk": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "iv9YlbZ4-D0L44L2u-15vb01L6": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 98,
+        "PetName": "Swamp Spirit",
+        "PetType": 1
+      },
+      "j3HHM868-s8MRI1Jz-0pIZMud7": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "j6L4ojk4-8fQBmM89-WlR8fzwh": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 95,
+        "PetName": "Swamp Vectorlord",
+        "PetType": 1
+      },
+      "jEV8cND8-vk22f5Ie-c0tb5K99": {
+        "IsLocked": false,
+        "PetExp": 6360,
+        "PetId": 2,
+        "PetName": "Cat",
+        "PetType": 0
+      },
+      "je9Nn5Y5-sTkIokgR-G049V7SL": {
+        "IsLocked": false,
+        "PetExp": 18176,
+        "PetId": 99,
+        "PetName": "Swamp Challenger",
+        "PetType": 0,
+        "SerialNumber": 155
+      },
+      "jpaIfC22-B5YOV2cm-ie14dHva": {
+        "IsLocked": false,
+        "PetExp": 126908,
+        "PetId": 3010,
+        "PetName": "Encrypted Bat",
+        "PetType": 2
+      },
+      "k5cg38Tv-M1x1Hx34-Iho5K4by": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "kQpY6LzF-byRHO70h-HF8C34TK": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "ki9dUz4w-MGUfC1qH-SZEuIv96": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "l0jxE1de-58OrtRL4-cqC8PLyE": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "l8rG6IYV-UOIm2K55-jbhzJ3Df": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 93,
+        "PetName": "Slime Cube",
+        "PetType": 1
+      },
+      "l9BSdO9y-68RA88MM-7b4wpA7D": {
+        "IsLocked": false,
+        "PetExp": 18900,
+        "PetId": 100,
+        "PetName": "Swamp  Wolflord",
+        "PetType": 0,
+        "SerialNumber": 34
+      },
+      "lCY9pn7t-Q98StL1G-AbE3Ir46": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "lp1R3pvt-ZD8KqAB6-z93BbuUR": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 98,
+        "PetName": "Swamp Spirit",
+        "PetType": 0
+      },
+      "mBIf3O82-MtRPb6W6-7Ixum5bL": {
+        "IsLocked": false,
+        "PetExp": 4502,
+        "PetId": 141,
+        "PetName": "Shadow Skull",
+        "PetType": 2
+      },
+      "mJjpQN1S-497Dm5mp-I6iFVWSM": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 97,
+        "PetName": "Swamp Dragon",
+        "PetType": 2
+      },
+      "mN94YITk-gn5ih5Ec-QL5sQR1M": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "mT7zXW5F-MBwLnbsj-6Uas5lbQ": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 128,
+        "PetName": "Pixel Dragon",
+        "PetType": 2
+      },
+      "maUsEyOT-H2p0tAr7-rMRQTrW9": {
+        "IsLocked": false,
+        "PetExp": 12122,
+        "PetId": 82,
+        "PetName": "Mythic King Slime",
+        "PetType": 1
+      },
+      "n8rfyTuF-26308UO5-8Vfmmr2i": {
+        "IsLocked": false,
+        "PetExp": 104404,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "nI7NLoc5-lmWrwEEX-vzjypWHY": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 1
+      },
+      "nQ00NRS6-VyRSxB4A-7K1271yR": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "nYGN1FD0-3XYQ4e3k-96vEv0V0": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 141,
+        "PetName": "Shadow Skull",
+        "PetType": 2
+      },
+      "nq782NRK-3fI60I15-cMSbY0i5": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 1
+      },
+      "o0RS9X87-Fh0fmiX9-jM15dVDv": {
+        "IsLocked": false,
+        "PetExp": 2458,
+        "PetId": 4046,
+        "PetName": "Release Split",
+        "PetType": 2
+      },
+      "oM8140DL-wZ5V3Erk-9rqO44LY": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 97,
+        "PetName": "Swamp Dragon",
+        "PetType": 2
+      },
+      "oMQ4a802-Ofl5ERbl-vGz4Ba3Z": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 129,
+        "PetName": "Pixel Frost Dragon",
+        "PetType": 2
+      },
+      "ou6m0nUi-n54wK377-f995WLeK": {
+        "IsLocked": false,
+        "PetExp": 4502,
+        "PetId": 142,
+        "PetName": "Shadow Star",
+        "PetType": 2
+      },
+      "ox0p54R3-zG03UsoO-YZ743MvU": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "p6koDro1-kO8YPH34-hUdB5IeU": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 98,
+        "PetName": "Swamp Spirit",
+        "PetType": 2
+      },
+      "pbbEj9ds-YyQZu679-nGvBTNGG": {
+        "IsLocked": false,
+        "PetExp": 3728,
+        "PetId": 4047,
+        "PetName": "Mythic Release Split",
+        "PetType": 2
+      },
+      "plNrO756-nH7R5NtJ-K4pA47bU": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 1
+      },
+      "ptK4FPn5-qIL2X3h5-a7HtHo21": {
+        "IsLocked": false,
+        "PetExp": 106026,
+        "PetId": 3010,
+        "PetName": "Encrypted Bat",
+        "PetType": 2
+      },
+      "pwr47297-KTa0BKb5-cg4025x1": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "q28PF7XJ-L3bHY29Z-2xirn8SJ": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "q3327XTI-Em869Z5j-c73EnePT": {
+        "IsLocked": false,
+        "PetExp": 2458,
+        "PetId": 4047,
+        "PetName": "Mythic Release Split",
+        "PetType": 0
+      },
+      "qCW4e0g0-7fkB71kj-VlRrofR9": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 94,
+        "PetName": "Swamp Lord",
+        "PetType": 2
+      },
+      "qp9YmYk5-4fyyQ14T-0fqzUg7I": {
+        "IsLocked": false,
+        "PetExp": 60488,
+        "PetId": 150,
+        "PetName": "Season 1 Overlord",
+        "PetType": 0
+      },
+      "r09Pjn92-RYYxmSi3-b3t7WJ4R": {
+        "IsLocked": false,
+        "PetExp": 7030,
+        "PetId": 99,
+        "PetName": "Swamp Challenger",
+        "PetType": 0,
+        "SerialNumber": 167
+      },
+      "r6fRkVOw-JtDXL04B-d46cOnfw": {
+        "IsLocked": false,
+        "PetExp": 4736,
+        "PetId": 94,
+        "PetName": "Swamp Lord",
+        "PetType": 0
+      },
+      "r9dD2PJE-u0a41Dvq-b71skQo2": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 141,
+        "PetName": "Shadow Skull",
+        "PetType": 1
+      },
+      "rcWvkl18-oI7YyUKo-X56pPsFw": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 129,
+        "PetName": "Pixel Frost Dragon",
+        "PetType": 0
+      },
+      "ru8r69Gf-yJK8JXyK-uVGfjfpb": {
+        "IsLocked": false,
+        "PetExp": 1460,
+        "PetId": 82,
+        "PetName": "Mythic King Slime",
+        "PetType": 0
+      },
+      "s5eNn1ke-86vDslv1-46x9y90x": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 1,
+        "PetName": "Dog",
+        "PetType": 0
+      },
+      "sFW0K7Ue-d4pu3b7z-0sb4Uehg": {
+        "IsLocked": false,
+        "PetExp": 7030,
+        "PetId": 99,
+        "PetName": "Swamp Challenger",
+        "PetType": 0,
+        "SerialNumber": 161
+      },
+      "sbjmMxaT-MwR1l4bG-M9r1F7e6": {
+        "IsLocked": false,
+        "PetExp": 20600,
+        "PetId": 98,
+        "PetName": "Swamp Spirit",
+        "PetType": 0
+      },
+      "tQsTF7MA-N3L27luf-3IPlRlUN": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 141,
+        "PetName": "Shadow Skull",
+        "PetType": 0
+      },
+      "tapN977Z-2Z487IGl-Y58MH6Xr": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3009,
+        "PetName": "Encrypted Dragon",
+        "PetType": 0
+      },
+      "te42TLn5-48Ie9yZ7-2gopOOZ1": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3012,
+        "PetName": "Encrypted Robot",
+        "PetType": 1,
+        "SerialNumber": 551
+      },
+      "tmbabqTh-2f5c1EA9-UNlwZA19": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 97,
+        "PetName": "Swamp Dragon",
+        "PetType": 2
+      },
+      "u3vytK56-xqrv2wU1-5kDlXQYc": {
+        "IsLocked": false,
+        "PetExp": 3864,
+        "PetId": 96,
+        "PetName": "Slime Overlord",
+        "PetType": 0
+      },
+      "uOGWYD9X-zeY79207-C6lUvpdI": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 128,
+        "PetName": "Pixel Dragon",
+        "PetType": 2
+      },
+      "vG78RD4w-3Z70MxTr-Q3qI8sSi": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "vHME8buF-9449AX8o-t6JE3X6w": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 94,
+        "PetName": "Swamp Lord",
+        "PetType": 0
+      },
+      "vkuGoStL-1LTxj5j3-4FJWN5Pp": {
+        "IsLocked": false,
+        "PetExp": 3836,
+        "PetId": 96,
+        "PetName": "Slime Overlord",
+        "PetType": 0
+      },
+      "vrLP0Gm6-7sqsjjtJ-6XV6pZl7": {
+        "IsLocked": false,
+        "PetExp": 976,
+        "PetId": 3102,
+        "PetName": "Fire Emperor",
+        "PetType": 0
+      },
+      "w2rwaZ14-8w930N5K-E8yh71Z9": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 97,
+        "PetName": "Swamp Dragon",
+        "PetType": 1
+      },
+      "w5K0M3R2-TjPDtb37-1FB963WZ": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 95,
+        "PetName": "Swamp Vectorlord",
+        "PetType": 0
+      },
+      "w8m8zWeF-U3nkMar6-o8ICdCw3": {
+        "IsLocked": false,
+        "PetExp": 62012,
+        "PetId": 150,
+        "PetName": "Season 1 Overlord",
+        "PetType": 1
+      },
+      "wo30y2fM-PpV2gLtE-K5FZm2fg": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 129,
+        "PetName": "Pixel Frost Dragon",
+        "PetType": 0
+      },
+      "wqly8ihX-ETz4k8y4-nx6Yn8Rn": {
+        "IsLocked": false,
+        "PetExp": 2268,
+        "PetId": 82,
+        "PetName": "Mythic King Slime",
+        "PetType": 0
+      },
+      "x1BkQroX-iDct9UIZ-Y3LepI61": {
+        "IsLocked": false,
+        "PetExp": 5112,
+        "PetId": 3015,
+        "PetName": "0",
+        "PetType": 0
+      },
+      "x7J05jmt-Tc6QX3SM-0h6U325j": {
+        "IsLocked": false,
+        "PetExp": 252,
+        "PetId": 2,
+        "PetName": "Cat",
+        "PetType": 0
+      },
+      "xuL5p3v9-kuwYJoFt-FiqfTjzs": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 93,
+        "PetName": "Slime Cube",
+        "PetType": 1
+      },
+      "y1zlc4F5-5ch8694d-CBj1KLWS": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 127,
+        "PetName": "Pixel Turtle",
+        "PetType": 0
+      },
+      "yds37PcV-qxLE4RVt-iBv6s2Xr": {
+        "IsLocked": false,
+        "PetExp": 104416,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "yes3g91k-5uEx58KK-6LCFz35X": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "z3vy5dBC-1P5b946T-ho1C8I43": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 97,
+        "PetName": "Swamp Dragon",
+        "PetType": 0
+      },
+      "z56OPa4Y-6Ajp093f-WCjDuCdH": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "z6b3y6ud-O9sNDVq7-ZP1G1nzr": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 4046,
+        "PetName": "Release Split",
+        "PetType": 0
+      },
+      "z7dj46q3-VP5AJPQo-F6t2Zz1F": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "z8cU3zWo-0xCSp1yz-Oru9326Z": {
+        "IsLocked": false,
+        "PetExp": 2718,
+        "PetId": 128,
+        "PetName": "Pixel Dragon",
+        "PetType": 2
+      },
+      "zFmg058V-73SE6Q5S-wiEYctMt": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 141,
+        "PetName": "Shadow Skull",
+        "PetType": 0
+      },
+      "zY5Jbmhe-64Y9lNOX-4HdSbG33": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "zZ99LEIu-5mo9ZFpE-09Xu409Y": {
+        "IsLocked": false,
+        "PetExp": 104442,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "zn5E8URP-2xKTMHvQ-v6PC30h5": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 0
+      },
+      "znx5niAj-7iFyD50z-FR546h9S": {
+        "IsLocked": false,
+        "PetExp": 4986,
+        "PetId": 4048,
+        "PetName": "Plasma Wolflord",
+        "PetType": 1,
+        "SerialNumber": 57
+      },
+      "zv35Xf1i-mB8I4hK2-h65YPwXB": {
+        "IsLocked": false,
+        "PetExp": 0,
+        "PetId": 3011,
+        "PetName": "Encrypted Shard",
+        "PetType": 1
+      }
+    },
+    "Purchased100KTier": 0,
+    "PurchasedEasterTier": 0,
+    "Rare": true,
+    "RebirthPotionEnd": 110270,
+    "RebirthPotionUses": 3,
+    "Rebirths": 2.6700174904160265e+39,
+    "Relics": [],
+    "RobuxSpent": 0,
+    "Secret": false,
+    "SecretHatched": 92,
+    "Settings": {
+      "DisableHotkeys": false,
+      "HideErrors": false,
+      "HideLow": false,
+      "HideOtherPets": true,
+      "HideOwnPets": true,
+      "HidePopups": true,
+      "HideServer": true,
+      "MuteMusic": true,
+      "MuteSounds": true
+    },
+    "SpawnUpgrades": {
+      "ChestAutoCollect": 1,
+      "ClickMulti": 52,
+      "CriticalChance": 10,
+      "GemChance": 10,
+      "GemMulti": 39,
+      "HatchSpeed": 18,
+      "LuckMulti": 67,
+      "MoreStorage": 25,
+      "PetEquip": 4,
+      "RebirthButtons": 182,
+      "WalkSpeed": 16
+    },
+    "SpecialHatched": 0,
+    "Starfish": 230809583.89969873,
+    "SummerUpgrades": {
+      "ClickMulti": 0,
+      "GemMulti": 0,
+      "LuckMulti": 3,
+      "MoreStorage": 0,
+      "PetEquip": 0,
+      "starMulti": 11
+    },
+    "TemporaryLBData": {
+      "Daily_Eggs_230_2024": 421206,
+      "Daily_SecretHatched_230_2024": 92,
+      "Daily_TotalClicks_230_2024": 4.519244742727679e+78,
+      "Daily_TotalGems_230_2024": 6.890096715644047e+30,
+      "Daily_TotalRebirths_230_2024": 2.6700174904160265e+39,
+      "Monthly_Eggs_08_2024": 421206,
+      "Monthly_SecretHatched_08_2024": 92,
+      "Monthly_TotalClicks_08_2024": 4.519244742727679e+78,
+      "Monthly_TotalGems_08_2024": 6.890096715644047e+30,
+      "Monthly_TotalRebirths_08_2024": 2.6700174904160265e+39,
+      "Weekly_Eggs_33_2024": 421206,
+      "Weekly_SecretHatched_33_2024": 92,
+      "Weekly_TotalClicks_33_2024": 4.519244742727679e+78,
+      "Weekly_TotalGems_33_2024": 6.890096715644047e+30,
+      "Weekly_TotalRebirths_33_2024": 2.6700174904160265e+39
+    },
+    "TimePlayed": 17750,
+    "Tokens": 0,
+    "TotalClicks": 4.519244742727679e+78,
+    "TotalEasterEggs": 73519759948492,
+    "TotalGems": 6.890096715644047e+30,
+    "TotalIndexed": 39,
+    "TotalRebirths": 2.6700174904160265e+39,
+    "TotalStarfish": 317248522.900011,
+    "TradeHistory": [
+      {
+        "1654677388": {
+          "Pets": [],
+          "Tokens": 0
+        },
+        "2208652832": {
+          "Pets": [],
+          "Tokens": 15000
+        },
+        "TradeTime": 1723877648
+      },
+      {
+        "1654677388": {
+          "Pets": [],
+          "Tokens": 0
+        },
+        "2208652832": {
+          "Pets": [],
+          "Tokens": 60000
+        },
+        "TradeTime": 1723877784
+      },
+      {
+        "1654677388": {
+          "Pets": {
+            "13dmIksY-bq24zmhh-jbvS3NJi": {
+              "IsLocked": false,
+              "PetExp": 4314,
+              "PetId": 128,
+              "PetName": "Pixel Dragon",
+              "PetType": 0
+            },
+            "5HOC5wXa-1l6D5Bre-45Gx8On3": {
+              "IsLocked": false,
+              "PetExp": 716,
+              "PetId": 128,
+              "PetName": "Pixel Dragon",
+              "PetType": 0
+            },
+            "5eSOp3kG-sjfhhv9y-8AL48gpp": {
+              "IsLocked": false,
+              "PetExp": 608,
+              "PetId": 128,
+              "PetName": "Pixel Dragon",
+              "PetType": 0
+            },
+            "H1yn0sUj-7SaUb2xp-D80BWBz3": {
+              "IsLocked": false,
+              "PetExp": 720,
+              "PetId": 128,
+              "PetName": "Pixel Dragon",
+              "PetType": 0
+            },
+            "HL2S73AN-32zO7775-Ju3C14jE": {
+              "IsLocked": false,
+              "PetExp": 626,
+              "PetId": 128,
+              "PetName": "Pixel Dragon",
+              "PetType": 0
+            },
+            "I28LS0Ml-3UYbR89i-2PgE6QoV": {
+              "IsLocked": false,
+              "PetExp": 716,
+              "PetId": 128,
+              "PetName": "Pixel Dragon",
+              "PetType": 0
+            },
+            "Qh7J63C4-1R2WmRw9-M0Nt4TLu": {
+              "IsLocked": false,
+              "PetExp": 716,
+              "PetId": 128,
+              "PetName": "Pixel Dragon",
+              "PetType": 0
+            },
+            "U1O7jrna-tFZrZ746-0nJi6nMj": {
+              "IsLocked": false,
+              "PetExp": 4306,
+              "PetId": 128,
+              "PetName": "Pixel Dragon",
+              "PetType": 0
+            },
+            "c13IC77A-k345e7OY-irHc7Sfk": {
+              "IsLocked": false,
+              "PetExp": 720,
+              "PetId": 128,
+              "PetName": "Pixel Dragon",
+              "PetType": 0
+            },
+            "k4TJC2cH-JOGT7017-KSCbMU5m": {
+              "IsLocked": false,
+              "PetExp": 616,
+              "PetId": 128,
+              "PetName": "Pixel Dragon",
+              "PetType": 0
+            },
+            "vxC4V0Ue-uNqH6lpD-NkI31MB5": {
+              "IsLocked": false,
+              "PetExp": 560,
+              "PetId": 128,
+              "PetName": "Pixel Dragon",
+              "PetType": 0
+            },
+            "z0DCGRnx-pN8e6gnb-SKVU0oSr": {
+              "IsLocked": false,
+              "PetExp": 720,
+              "PetId": 128,
+              "PetName": "Pixel Dragon",
+              "PetType": 0
+            }
+          },
+          "Tokens": 0
+        },
+        "2208652832": {
+          "Pets": [],
+          "Tokens": 0
+        },
+        "TradeTime": 1723881139
+      },
+      {
+        "1654677388": {
+          "Pets": {
+            "08B04Fzl-PkV2uUJ6-6590GH1g": {
+              "IsLocked": false,
+              "PetExp": 10292,
+              "PetId": 128,
+              "PetName": "Pixel Dragon",
+              "PetType": 2
+            },
+            "20ewjvd7-q8UB8a4M-ptW7s040": {
+              "IsLocked": false,
+              "PetExp": 10392,
+              "PetId": 128,
+              "PetName": "Pixel Dragon",
+              "PetType": 2
+            },
+            "23YWo1hu-47h9lJ0C-4yhp3V69": {
+              "IsLocked": false,
+              "PetExp": 10322,
+              "PetId": 128,
+              "PetName": "Pixel Dragon",
+              "PetType": 2
+            },
+            "28J3QIBv-gfZg5N4B-8ly2V10L": {
+              "IsLocked": false,
+              "PetExp": 2718,
+              "PetId": 128,
+              "PetName": "Pixel Dragon",
+              "PetType": 2
+            },
+            "5zW8QAS7-49uYhTUS-3L2o1966": {
+              "IsLocked": false,
+              "PetExp": 0,
+              "PetId": 127,
+              "PetName": "Pixel Turtle",
+              "PetType": 0
+            },
+            "621bkp9b-5MoYzPL3-VAB39Zh2": {
+              "IsLocked": false,
+              "PetExp": 14512,
+              "PetId": 128,
+              "PetName": "Pixel Dragon",
+              "PetType": 2
+            },
+            "Dvub39SU-jqd5Wv9c-BminML7d": {
+              "IsLocked": false,
+              "PetExp": 10218,
+              "PetId": 128,
+              "PetName": "Pixel Dragon",
+              "PetType": 2
+            },
+            "QX3mHSUF-BWYq5lfC-1yN6bFGq": {
+              "IsLocked": false,
+              "PetExp": 962,
+              "PetId": 127,
+              "PetName": "Pixel Turtle",
+              "PetType": 1
+            },
+            "R81o9WG3-857Mv9Oh-nV0nO4ac": {
+              "IsLocked": false,
+              "PetExp": 930,
+              "PetId": 127,
+              "PetName": "Pixel Turtle",
+              "PetType": 0
+            },
+            "a2eM8lPx-78aN0aEe-S79aASff": {
+              "IsLocked": false,
+              "PetExp": 11558,
+              "PetId": 128,
+              "PetName": "Pixel Dragon",
+              "PetType": 2
+            },
+            "d509Wxv5-0Bu4jPNu-AUkJL1vp": {
+              "IsLocked": false,
+              "PetExp": 0,
+              "PetId": 127,
+              "PetName": "Pixel Turtle",
+              "PetType": 0
+            },
+            "oZ199f6B-Yz2800Ph-H47Q8W7H": {
+              "IsLocked": false,
+              "PetExp": 10332,
+              "PetId": 128,
+              "PetName": "Pixel Dragon",
+              "PetType": 2
+            }
+          },
+          "Tokens": 0
+        },
+        "2208652832": {
+          "Pets": [],
+          "Tokens": 0
+        },
+        "TradeTime": 1723881332
+      },
+      {
+        "1654677388": {
+          "Pets": [],
+          "Tokens": 0
+        },
+        "2208652832": {
+          "Pets": {
+            "3oQBU9QE-lSR27GOy-95MK692Y": {
+              "IsLocked": false,
+              "PetExp": 5430,
+              "PetId": 3102,
+              "PetName": "Fire Emperor",
+              "PetType": 0
+            },
+            "77Cq5ru3-HVm7ZWW7-5xmOE29z": {
+              "IsLocked": false,
+              "PetExp": 5322,
+              "PetId": 3102,
+              "PetName": "Fire Emperor",
+              "PetType": 0
+            },
+            "9YkuAt85-1myfZMSi-88415Cf6": {
+              "IsLocked": false,
+              "PetExp": 5304,
+              "PetId": 3102,
+              "PetName": "Fire Emperor",
+              "PetType": 0
+            },
+            "WA6X0K9N-B50BvTo5-Qj2g8JQ0": {
+              "IsLocked": false,
+              "PetExp": 5360,
+              "PetId": 3102,
+              "PetName": "Fire Emperor",
+              "PetType": 0
+            },
+            "hh05jamJ-HOh381Iu-71LMa553": {
+              "IsLocked": false,
+              "PetExp": 5300,
+              "PetId": 3102,
+              "PetName": "Fire Emperor",
+              "PetType": 0
+            },
+            "nAgJ13O4-Tg3TF0bQ-YoroMUAF": {
+              "IsLocked": false,
+              "PetExp": 5262,
+              "PetId": 3102,
+              "PetName": "Fire Emperor",
+              "PetType": 0
+            },
+            "wU5053h6-VBh42mR3-oTAK4N10": {
+              "IsLocked": false,
+              "PetExp": 5290,
+              "PetId": 3102,
+              "PetName": "Fire Emperor",
+              "PetType": 0
+            }
+          },
+          "Tokens": 0
+        },
+        "TradeTime": 1723886568
+      },
+      {
+        "925553402": {
+          "Pets": [],
+          "Tokens": 0
+        },
+        "2208652832": {
+          "Pets": {
+            "30207S59-A7Gawg4W-1c102TI3": {
+              "IsLocked": false,
+              "PetExp": 75,
+              "PetId": 3011,
+              "PetName": "Encrypted Shard",
+              "PetType": 0
+            }
+          },
+          "Tokens": 0
+        },
+        "TradeTime": 1723897360
+      }
+    ],
+    "TradeRequests": true,
+    "Uncommon": true,
+    "UniqueClicks": 137189,
+    "UnlockedTitles": [
+      "Robux Supporter",
+      "Robux Enjoyer",
+      "Robux Master",
+      "VIP",
+      "One In A Million",
+      "Tapper",
+      "Cryptic Hatcher",
+      "Hatcher",
+      "Secret Grinder",
+      "Ultra Tapper"
+    ],
+    "VIPClicker": true
+  },
+  "GlobalUpdates": [
+    0,
+    []
+  ],
+  "MetaData": {
+    "LastUpdate": 1723949381,
+    "MetaTags": [],
+    "ProfileCreateTime": 1723876161,
+    "SessionLoadCount": 17
+  },
+  "RobloxMetaData": [],
+  "UserIds": [
+    2208652832
+  ],
+  "WasCorrupted": false
+}
